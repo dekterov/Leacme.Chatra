@@ -4,8 +4,8 @@
 
 This application features the ability to leverage the unique IPV6 addresses of devices to set up a serverless direct chat session between two devices running this app and exchange messages.
 
-![index](https://user-images.githubusercontent.com/6654513/71701817-230c4e80-2d89-11ea-83e7-053da2841bf6.png)
 ![][image_screenshot]
+![index](https://user-images.githubusercontent.com/6654513/71701817-230c4e80-2d89-11ea-83e7-053da2841bf6.png)
 
 ## Application Compiling
 
